@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to fetch an API and some JSON basics, example of code below
+I learned how to fetch an API and some JSON basics, example of code below:
 
 ```js
 const url = "https://api.example.com/data";
