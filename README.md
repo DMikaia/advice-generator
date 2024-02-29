@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/DMikaia/advice-generator)
+- Live Site URL: [Demo](https://dm-advice-generator.netlify.app/)
 
 ## My process
 
